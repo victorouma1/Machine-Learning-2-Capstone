@@ -11,5 +11,12 @@ Develop a time series forecasting model to predict hourly energy consumption. Co
 5. Model optimisation
 6. Deployment
 
+### Models Used
+1. ARIMA
+2. SARIMA
+3. RNN
+4. LSTM
+5. GRU
+
 ### Dataset
 PJM Hourly Energy Consumption Data(Kaggle)
