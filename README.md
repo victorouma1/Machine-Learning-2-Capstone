@@ -4,7 +4,7 @@ A local utility provider needs to accurately forecast daily electricity load to 
 ### Description
 Develop a time series forecasting model to predict hourly energy consumption. Compare time series model like ARIMA,SARIMA etc against a modern deep learning approach like LSTM.
 
-# Type of ML problem
+### Type of ML problem
 Time series forecasting
 
 ### Workflow
